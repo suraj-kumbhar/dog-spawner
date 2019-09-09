@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(90deg, #EDAFB8 0%, #DEDBD2 100%);
+}
+ header{
+     color: #4A5759;
+     text-align: center;
+     background:  linear-gradient(90deg, #B0C4B1 0%, #F7E1D7 100%);
+     border: 1px solid #4A5759;
+     border-radius: 5px;
+     padding: 25px;
+     margin-top: 10px;
+ }
+
+ .content{
+    border-radius: 5px;
+    border: 1px solid #4A5759;
+    margin-top: 10px;
+    padding: 25px;
+    text-align: center;
+ }
+
+ .info{
+     margin: 25px;
+ }
+
+ .dog{
+     margin: 25px;
+     border: 1px solid #4A5759;
+     border-radius: 5px;
+     max-width: 75%;
+ }
